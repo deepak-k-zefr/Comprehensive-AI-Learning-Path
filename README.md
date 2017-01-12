@@ -40,14 +40,14 @@ Learning Resources and Links for all the Resources
 * Data Wrangling with  MongoDB (Udacity)
 
 ### CS Basics
-Introduction to CS using Python MITx.
-CS 50 youtube
-Programming foundations with Python. (Udacity)
-Intro to algorithms. (Udacity) 
-Design and analysis of computer programs. (Udacity)
-Intro to computer programs. (Udacity)
+* Introduction to CS using Python MITx.
+* CS 50 youtube
+* Programming foundations with Python. (Udacity)
+* Intro to algorithms. (Udacity) 
+* Design and analysis of computer programs. (Udacity)
+* Intro to computer programs. (Udacity)
 
 ### Natural Language Processing
-CS224D Deep Learning for NLP
-Dan Jurafsky & Chris Manning: Natural Language Processing
-Natural Language Processing - Coursera (FULL) | University of Michigan
+* CS224D Deep Learning for NLP
+* Dan Jurafsky & Chris Manning: Natural Language Processing
+* Natural Language Processing - Coursera (FULL) | University of Michigan
