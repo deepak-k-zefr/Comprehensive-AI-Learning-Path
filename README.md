@@ -12,3 +12,36 @@ Learning Resources and Links for all the Resources
 * Luciano Ramalho - Pythonic Objects: implementing productive APIs with the Python Data Model
 * Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016
 
+### Pydata Videos
+* Bobby Filar | Bot or Not? The Illusion of Intelligence (https://www.youtube.com/watch?v=NqLmBvFKgbw&index=4&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
+
+
+
+
+### General Python  Scripting
+Corey Schafer- OOPS
+Sentdex.
+
+
+###  Web Developement
+Designing RESTful APIs. (Udacity)
+Designing Scalable WEB apps in Python. (Udacity)
+Web developement. (Udacity)
+
+
+###  Machine Learning and AI
+Hvass labs- Deep Learning.
+Introduction to computational thinking and Data science (edX)
+Machine Learning Specailization (Coursera)
+AIND (Udacity)
+Deep Learning. (Udacity)
+Databases
+Data Wrangling with  MongoDB (Udacity)
+
+### CS Basics
+Introduction to CS using Python MITx.
+CS 50 youtube
+Programming foundations with Python. (Udacity)
+Intro to algorithms. (Udacity) 
+Design and analysis of computer programs. (Udacity)
+Intro to computer programs. (Udacity)
