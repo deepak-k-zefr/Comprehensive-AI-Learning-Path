@@ -16,8 +16,6 @@ Learning Resources and Links for all the Resources
 * Bobby Filar | Bot or Not? The Illusion of Intelligence (https://www.youtube.com/watch?v=NqLmBvFKgbw&index=4&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
 
 
-
-
 ### General Python  Scripting
 Corey Schafer- OOPS
 Sentdex.
@@ -45,3 +43,8 @@ Programming foundations with Python. (Udacity)
 Intro to algorithms. (Udacity) 
 Design and analysis of computer programs. (Udacity)
 Intro to computer programs. (Udacity)
+
+### Natural Language Processing
+CS224D Deep Learning for NLP
+Dan Jurafsky & Chris Manning: Natural Language Processing
+Natural Language Processing - Coursera (FULL) | University of Michigan
