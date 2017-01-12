@@ -13,8 +13,7 @@ Learning Resources and Links for all the Resources
 * Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016
 
 ### Pydata Videos
-* Bobby Filar | Bot or Not? The Illusion of Intelligence (https://www.youtube.com/watch?v=NqLmBvFKgbw&index=4&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
-
+* [Bobby Filar | Bot or Not? The Illusion of Intelligence](https://www.youtube.com/watch?v=NqLmBvFKgbw&index=4&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
 
 ### General Python  Scripting
 Corey Schafer- OOPS
