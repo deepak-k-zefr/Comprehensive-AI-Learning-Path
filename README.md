@@ -1,6 +1,10 @@
 # Learning-Resources
 Learning Resources and Links for all the Resources
 
+### Artificial Intelligence
+* [ColumbiaX: CSMM.101x Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x)
+* [BerkeleyX: CS188.1x Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
+* AIND
 ### Pycon Videos
 * [Miguel Grinberg - Flask at Scale - PyCon 2016](https://www.youtube.com/watch?v=tdIIJuPh3SI&list=PLLj6w0Thbv00Ij2yYC5PJOUaD_xuQcm7O&index=4)
 * [Jérôme Petazzoni - Introduction to Docker and containers - PyCon 2016](https://www.youtube.com/watch?v=ZVaRK10HBjo&list=PLLj6w0Thbv00Ij2yYC5PJOUaD_xuQcm7O&index=8)
@@ -28,14 +32,17 @@ Learning Resources and Links for all the Resources
 * Web developement. (Udacity)
 
 
-###  Machine Learning and AI
+###  Machine Learning 
 * Hvass labs- Deep Learning.
 * Introduction to computational thinking and Data science (edX)
 * Machine Learning Specailization (Coursera)
-* AIND (Udacity)
+
+### Deep Learning
 * Deep Learning. (Udacity)
-
-
+* DLFND (udacity)
+* [Deep Learning Tutorial Release 0.1 LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
+* [Practical Deep Learning for coders 18 hrs of Videos](http://course.fast.ai/start.html)
+* [Practical Deep Learning for coders- Notebooks](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
 ### Databases
 * Data Wrangling with  MongoDB (Udacity)
 
