@@ -46,6 +46,7 @@ Learning Resources and Links for all the Resources
 ### Deep Learning
 * Deep Learning. (Udacity)
 * Hvass labs- Deep Learning.
+* [Dive Into TensorFlow part-(I-VI)](http://textminingonline.com/dive-into-tensorflow-part-vi-beyond-deep-learning)
 * DLFND (udacity)
 * [Deep Learning Tutorial Release 0.1 LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Practical Deep Learning for coders 18 hrs of Videos](http://course.fast.ai/start.html)
@@ -53,6 +54,7 @@ Learning Resources and Links for all the Resources
 
 ### Self Driving Cars
 * [MIT 6.S094: Deep Learning for Self-Driving Cars ](http://selfdrivingcars.mit.edu/)
+* [SDCND Term1](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.eldq0c30t)
 
 ### Databases
 * Data Wrangling with  MongoDB (Udacity)
