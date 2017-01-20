@@ -23,6 +23,8 @@ Learning Resources and Links for all the Resources
 
 ### Pydata Videos
 * [Bobby Filar | Bot or Not? The Illusion of Intelligence](https://www.youtube.com/watch?v=NqLmBvFKgbw&index=4&list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
+* [Patrick Harrison | Modern NLP in Python](https://www.youtube.com/watch?v=6zm9NC9uRkk)
+  [Github](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 
 
 ### General Python  Scripting
@@ -37,18 +39,20 @@ Learning Resources and Links for all the Resources
 
 
 ###  Machine Learning 
-* Hvass labs- Deep Learning.
 * Introduction to computational thinking and Data science (edX)
 * Machine Learning Specailization (Coursera)
 
 
 ### Deep Learning
 * Deep Learning. (Udacity)
+* Hvass labs- Deep Learning.
 * DLFND (udacity)
 * [Deep Learning Tutorial Release 0.1 LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Practical Deep Learning for coders 18 hrs of Videos](http://course.fast.ai/start.html)
 * [Practical Deep Learning for coders- Notebooks](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
 
+### Self Driving Cars
+* [MIT 6.S094: Deep Learning for Self-Driving Cars ](http://selfdrivingcars.mit.edu/)
 
 ### Databases
 * Data Wrangling with  MongoDB (Udacity)
