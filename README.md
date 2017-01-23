@@ -56,10 +56,11 @@ Learning Resources and Links for all the Resources
 * [MIT 6.S094: Deep Learning for Self-Driving Cars ](http://selfdrivingcars.mit.edu/)
 * [SDCND Term 1 official Medium blogpost](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.eldq0c30t)
 * Term 1 Projects
-     * Finding Lane Lines
-     * Traffic Sign Classifier
-     * Behavioral Cloning
-     * Advanced Lane Finding
+     * [Finding Lane Lines](https://github.com/udacity/CarND-LaneLines-P1)
+        *[Hough Transform](https://alyssaq.github.io/2014/understanding-hough-transform/)
+     * [Traffic Sign Classifier](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project)
+     * [Behavioral Cloning]()
+     * [Advanced Lane Finding](https://github.com/udacity/CarND-Advanced-Lane-Lines)
        
 
 * [SDCND Term 1 Boston Self Driving Cars Meetup ](https://www.youtube.com/watch?v=GB0qNAnxnBg)
