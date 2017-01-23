@@ -84,5 +84,5 @@ Learning Resources and Links for all the Resources
 * CS224D Deep Learning for NLP
         * [Class Videos 2016](https://www.youtube.com/watch?v=DJHvaGU9SW8&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7)
         * [WebSite](https://cs224d.stanford.edu/)
-* Dan Jurafsky & Chris Manning: Natural Language Processing
+* [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 * Natural Language Processing - Coursera (FULL) | University of Michigan
