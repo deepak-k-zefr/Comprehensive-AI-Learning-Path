@@ -55,6 +55,13 @@ Learning Resources and Links for all the Resources
 ### Self Driving Cars
 * [MIT 6.S094: Deep Learning for Self-Driving Cars ](http://selfdrivingcars.mit.edu/)
 * [SDCND Term 1 official Medium blogpost](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.eldq0c30t)
+* Term 1 Projects
+     * Finding Lane Lines
+     * Traffic Sign Classifier
+     * Behavioral Cloning
+     * Advanced Lane Finding
+       
+
 * [SDCND Term 1 Boston Self Driving Cars Meetup ](https://www.youtube.com/watch?v=GB0qNAnxnBg)
 * [Bay Area AI: David Silver, Becoming a Self-Driving Car Engineer](https://www.youtube.com/watch?v=bQMOekaFjA4)
 * [German sign classification using deep learning neural networks](https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.x1y6wgmk0)
