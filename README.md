@@ -57,7 +57,7 @@ Learning Resources and Links for all the Resources
 * [SDCND Term 1 official Medium blogpost](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.eldq0c30t)
 * Term 1 Projects
      * [Finding Lane Lines](https://github.com/udacity/CarND-LaneLines-P1)
-        *[Hough Transform](https://alyssaq.github.io/2014/understanding-hough-transform/)
+              *[Hough Transform](https://alyssaq.github.io/2014/understanding-hough-transform/)
      * [Traffic Sign Classifier](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project)
      * [Behavioral Cloning]()
      * [Advanced Lane Finding](https://github.com/udacity/CarND-Advanced-Lane-Lines)
@@ -82,5 +82,7 @@ Learning Resources and Links for all the Resources
 
 ### Natural Language Processing
 * CS224D Deep Learning for NLP
+        * [Class Videos 2016](https://www.youtube.com/watch?v=DJHvaGU9SW8&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7)
+        * [WebSite](https://cs224d.stanford.edu/)
 * Dan Jurafsky & Chris Manning: Natural Language Processing
 * Natural Language Processing - Coursera (FULL) | University of Michigan
