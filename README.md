@@ -1,11 +1,15 @@
 # Learning-Resources
-Learning Resources and Links for all the Resources
+Learning Resources and Links for all the Resources for AI, Basic Web developement, Basics of CS and algorithms, Practical and theoretical ML, Self Driving Cars.
 
 
 ### Artificial Intelligence
 * [ColumbiaX: CSMM.101x Artificial Intelligence (AI)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x)
 * [BerkeleyX: CS188.1x Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
-* AIND
+* [AIND](https://classroom.udacity.com/nanodegrees/nd889/syllabus)
+    *[Solving a Sudoku with AI]()
+    *[Advanced Game Playing]()
+    *[PACMAN]()
+      
 
 
 ### Pycon Videos
@@ -27,9 +31,9 @@ Learning Resources and Links for all the Resources
   [Github](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 
 
-### General Python  Scripting
-* Corey Schafer
-* Sentdex.
+### General Python Scripting
+* (Corey Schafer)[https://www.youtube.com/user/schafer5]
+* (Sentdex)[https://www.youtube.com/user/sentdex]
 
 
 ###  Web Developement
@@ -39,13 +43,13 @@ Learning Resources and Links for all the Resources
 
 
 ###  Machine Learning 
-* Introduction to computational thinking and Data science (edX)
-* Machine Learning Specailization (Coursera)
+* [Introduction to computational thinking and Data science (edX)]()
+* [Machine Learning Specailization (Coursera)]()
 
 
 ### Deep Learning
-* Deep Learning. (Udacity)
-* Hvass labs- Deep Learning.
+* [Deep Learning. (Udacity)]()
+* [Hvass labs- Deep Learning.](https://www.youtube.com/watch?v=wuo4JdG3SvU&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 * [Dive Into TensorFlow part-(I-VI)](http://textminingonline.com/dive-into-tensorflow-part-vi-beyond-deep-learning)
 * DLFND (udacity)
 * [Deep Learning Tutorial Release 0.1 LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
@@ -72,12 +76,12 @@ Learning Resources and Links for all the Resources
 
 
 ### CS Basics
-* Introduction to CS using Python MITx.
-* CS 50 youtube
-* Programming foundations with Python. (Udacity)
-* Intro to algorithms. (Udacity) 
-* Design and analysis of computer programs. (Udacity)
-* Intro to computer programs. (Udacity)
+* [Introduction to CS using Python MITx.](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
+* [CS 50 youtube.](https://www.youtube.com/user/cs50tv)
+* [Programming foundations with Python. (Udacity)]()
+* [Intro to algorithms. (Udacity)]()
+* [Design and analysis of computer programs.(Udacity)]()
+* [Intro to computer programs.(Udacity)]()
 
 
 ### Natural Language Processing
