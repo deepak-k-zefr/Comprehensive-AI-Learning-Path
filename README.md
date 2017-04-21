@@ -72,6 +72,9 @@ Learning Resources and Links for all the Resources for AI, Basic Web developemen
 * Natural Language Processing - Coursera (FULL) | University of Michigan
 
 
+### SQL
+* [SQL ZOO] (https://sqlzoo.net/)
+
 ### Chatbots
 
 
